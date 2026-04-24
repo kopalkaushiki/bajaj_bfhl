@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 40px;
+}
+
+textarea {
+  width: 400px;
+  height: 100px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+pre {
+  text-align: left;
+  width: 60%;
+  margin: auto;
+  background: #f4f4f4;
+  padding: 10px;
+}
